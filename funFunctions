@@ -1,0 +1,4 @@
+(pureFunction (OO, MutableState){
+     sendToTrashCollect ===true;
+     con.log 'helloFriend';
+}());//100keylogsExact//
